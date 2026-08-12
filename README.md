@@ -4,7 +4,7 @@ My personal developer portfolio — built to showcase full-stack projects while
 applying for frontend developer internships. Built with React and Vite, with a
 custom design system rather than a template.
 
-**Live site:** _add your Vercel URL here once deployed_
+**Live site:** https://eklimsek-portfolio.vercel.app/
 
 <!-- Add a screenshot once deployed, e.g.: -->
 <!-- ![Portfolio screenshot](./screenshot.png) -->
