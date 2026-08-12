@@ -41,12 +41,12 @@ custom design system rather than a template.
 
 ## Design System
 
-| Token     | Value     | Use                              |
-| --------- | --------- | -------------------------------- |
-| `--bg`    | `#F7F6F2` | Page background (warm off-white) |
-| `--ink`   | `#1B1F1D` | Primary text                     |
-| `--jade`  | `#2F5D50` | Primary accent                   |
-| `--brass` | `#B8925A` | Secondary accent / hover states  |
+| Token | Value | Use |
+|---|---|---|
+| `--bg` | `#F7F6F2` | Page background (warm off-white) |
+| `--ink` | `#1B1F1D` | Primary text |
+| `--jade` | `#2F5D50` | Primary accent |
+| `--brass` | `#B8925A` | Secondary accent / hover states |
 
 Typography: [Fraunces](https://fonts.google.com/specimen/Fraunces) for
 headings, [Inter](https://fonts.google.com/specimen/Inter) for body text,
