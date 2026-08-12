@@ -1,4 +1,4 @@
-# Lim — Portfolio
+# Eklim Sek — Portfolio
 
 My personal developer portfolio — built to showcase full-stack projects while
 applying for frontend developer internships. Built with React and Vite, with a
